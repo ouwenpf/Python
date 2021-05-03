@@ -29,7 +29,7 @@ def_pyuser(){
 	
 }
 
-###Running under normal users:强烈建议在普通用户下运行
+###Running under normal users:强烈建议在普通用户下运行,如果下载很慢请使用installer.sh脚本
 
 def_pyenv(){
 	
