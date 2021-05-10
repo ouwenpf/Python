@@ -157,6 +157,6 @@ pip就是Python的包管理工具，3.x的版本直接带了，可以直接使�
 ## 其它
 [pip安装低于2.7.9](https://pypi.org/project/pip/)  
 
-	curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+	wget  https://bootstrap.pypa.io/pip/2.7/get-pip.py
 	python get-pip.py
 	
